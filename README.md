@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Chernandez092023
-- 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects to improve my portfolio
 - 📫 Reach me @christfr_ on Instagram!
 
 <!---
